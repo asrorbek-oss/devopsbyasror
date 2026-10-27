@@ -3,7 +3,7 @@
 * [DevOps-Linux](README.md)
   * [Linux grub -recovery SUDOERS xato qilinganda](01-linux/linux-grub-recovery-sudoers-xato-qilinganda.md)
   * [Linux bash\_completion](01-linux/linux-bash_completion.md)
-  * [Page 2](01-linux/page-2.md)
+  * [🕒 Chrony’ni sozlash (vaqtni sinxronlashtirish xizmati)](01-linux/page-2.md)
   * [Page 3](01-linux/page-3.md)
 * [DevOps-Docker](02-docker/README.md)
   * [Docker Nima?](<02-docker/00-docker arxitekturasi.md>)
